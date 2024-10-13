@@ -27,10 +27,7 @@ Lembre-se das interações:
     Papel vence Pedra
 
 As principais tecnologias utilizadas no desenvolvimento deste projeto foram:
-
 HTML5 CSS3 JavaScript
-🖥 Preview
-<p align="center"> <img src="screenshot01.png" title="Screenshot do jogo" alt="Tela do jogo Yu-Gi-Oh! Jokenpô Edition"> <img src="screenshot02.png" title="Screenshot do jogo" alt="Tela do jogo Yu-Gi-Oh! Jokenpô Edition"> <img src="screenshot03.png" title="Screenshot do jogo" alt="Tela do jogo Yu-Gi-Oh! Jokenpô Edition"> </p>
-📌 Créditos
 
+📌 Créditos
 Desenvolvido por Gilmar Shuenck durante o Bootcamp Ri Happyy - Front-end do Zero da DIO.
